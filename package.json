@@ -1,0 +1,23 @@
+{
+  "name": "imagess-shadow-wizard",
+  "version": "1.0.0",
+  "description": "Get perfect shadows every time for the non-designer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucoadam/shadow_widzard.git"
+  },
+  "keywords": [
+    "shadow",
+    "wizard"
+  ],
+  "author": "alishdahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucoadam/shadow_widzard/issues"
+  },
+  "homepage": "https://github.com/lucoadam/shadow_widzard#readme"
+}

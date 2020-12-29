@@ -4,14 +4,14 @@ Get perfect shadows every time for the non-designer.
 
 # Installation
 
-`npm i shadow-wizard --save`
+`npm i imagess-shadow-wizard --save`
 
-`npm i shadow-wizard --save`
+`yarn add imagess-shadow-wizard`
 
 Then...
 
 ```
-import {shadowizard } from 'shadow-wizard';
+import {shadowizard } from 'shadowizzardy';
 
 shadowizard({
     shadow_type: 'soft',
