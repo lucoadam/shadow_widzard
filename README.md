@@ -11,7 +11,7 @@ Get perfect shadows every time for the non-designer.
 Then...
 
 ```
-import {shadowizard } from 'shadowizzardy';
+import {shadowizard } from 'imagess-shadow-wizard';
 
 shadowizard({
     shadow_type: 'soft',
